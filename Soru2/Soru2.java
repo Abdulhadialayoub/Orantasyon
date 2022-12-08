@@ -1,3 +1,4 @@
+//𝑎𝑥2+𝑏𝑥+𝑐=0denklemin köklerini bulan programına Hoş geldiniz
 package Soru2;
 import java.util.Scanner;
 public class Soru2 {
