@@ -1,3 +1,4 @@
+//Sayı çift mi tek kontrol eden programa hoş geldiniz
 package Soru3;
 import java.util.Scanner;
 public class Soru3 {
