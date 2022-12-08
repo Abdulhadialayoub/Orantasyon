@@ -1,3 +1,4 @@
+//Daireni alanı ve çevresini hesaplayan programa Hoş geldiniz
 package Soru1;
 	import java.util.Scanner;
 	public class Soru1 {
