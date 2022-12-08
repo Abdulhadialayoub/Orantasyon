@@ -1,3 +1,4 @@
+//Fibonacci programa hoş geldiniz
 package Soru4;
 import java.util.Scanner;
 public class Soru4 {
