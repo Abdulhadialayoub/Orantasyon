@@ -1,3 +1,4 @@
+//üslü sayının hesaplayan programa hoş geldiniz
 package Soru5;
 import java.util.Scanner;
 public class Soru5 {
