@@ -1,3 +1,4 @@
+//Geometrik ortalamasını istediğiniz iki sayıyı giriniz
 package Soru8;
 import java.util.Scanner;
 public class Soru8 {
