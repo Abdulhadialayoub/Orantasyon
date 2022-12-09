@@ -1,3 +1,4 @@
+//"iki sayının karşılaştırma programına Hoş geldiniz
 package Soru9;
 import java.util.Scanner;
 public class Soru9 {
