@@ -1,3 +1,4 @@
+//logritma hesaplan programa hoş geldiniz
 package Soru7;
 import java.util.Scanner;
 public class Soru7 {
