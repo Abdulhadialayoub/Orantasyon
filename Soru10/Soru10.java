@@ -1,3 +1,4 @@
+//iki Sayını ortalamasını hesaplayan programa hoşgeldiniz
 package Soru10;
 import java.util.Scanner;
 public class Soru10 {
