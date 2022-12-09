@@ -1,3 +1,4 @@
+//Üçgenin alan ve çevresi hesaplayan programına hoş geldiniz
 package Soru6;
 import java.util.Scanner;
 public class Soru6 {
